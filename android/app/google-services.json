@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747299572839",
+    "project_id": "tbank-817bc",
+    "storage_bucket": "tbank-817bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747299572839:android:c58a5dfc23873355ef58c2",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvifN6qEX6Hbpygfs9y3rdmxCK6PU-5wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
