@@ -7,9 +7,9 @@ TrashBank adalah sebuah aplikasi Flutter yang dirancang untuk membantu pengelola
 Pastikan Anda memiliki proyek Firebase. Jika belum, buat proyek di Firebase Console.
 
 - Instal Firebase Admin SDK dengan perintah:
-
 npm install firebase-admin
-Service Account Key
+
+- Service Account Key :
 Unduh file kunci akun layanan (serviceAccountKey.json) dari Firebase Console:
 Project Settings > Service Accounts > Generate New Private Key.
 
